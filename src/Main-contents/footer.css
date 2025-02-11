@@ -1,0 +1,15 @@
+.footer-main{
+    padding: 60px 111px;
+}
+.footer-main h1 {
+    line-height: 2;
+    letter-spacing: 3px;
+    font-size: 50px;
+    color: #808080;
+}
+.footer-main p{
+    text-align: center;
+    line-height: 5;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+}

@@ -1,0 +1,78 @@
+.skills-main{
+    color: antiquewhite;
+    background-color: rgb(241, 234, 220);
+    /* height: 600px; */
+    /* width: 100%; */
+    padding: 95px 111px;
+}
+.skills-intro h3{
+    color: rgb(247, 107, 105);
+    font-size: xx-large;
+}
+.skills-intro h2{
+    color: #808080;
+    font-size: 42px;
+    font-weight: 800;
+    padding: 0;
+}
+.skills-logo {
+    font-size: 110px;
+    /* color: #0b1aa4bf; */
+    color: rgba(0, 0, 0, 0.632);
+}
+.upper {
+    display: flex;
+    justify-content: space-around;
+    padding: 70px 0;
+}
+.down {
+    display: flex;
+    justify-content: space-around;
+    padding: 70px 0;
+}
+.html {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    background-color: rgb(249, 244,234);
+}
+.css{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    background-color: rgb(249, 244,234);
+}
+.js {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    background-color: rgb(249, 244,234);
+}
+.react {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    background-color: rgb(249, 244,234);
+}
+.bootstrap{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    background-color: rgb(249, 244,234);
+}
+.figma{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    background-color: rgb(249, 244,234);
+}
+.github{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    background-color: rgb(249, 244,234);
+}
+.sikll-name {
+    font-size: 20px;
+    line-height: 3;
+}

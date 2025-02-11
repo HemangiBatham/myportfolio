@@ -1,0 +1,7 @@
+.bg{
+    /* background-image: url(./images/bg-blur1.png); */
+    height: 340px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1px;
+}

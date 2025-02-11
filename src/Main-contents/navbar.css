@@ -1,0 +1,47 @@
+@import url(https://db.onlinewebfonts.com/c/2da952d097bffd198ec0f0aa3fdd6804?family=JejuHallasan);
+/* body{
+    background-color: black;
+    
+} */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 111px;
+    /* border:  2px solid #9223FF; */
+    /* border-radius: 50px; */
+    /* width: 85%; */
+    text-align: center;
+    align-items: baseline;
+    /* box-shadow: 1px 2px 20px #ee84ffab; */
+    /* margin: 30px auto; */
+    /* background-color: #F9F4; */
+    background-color: rgb(249, 244,234);
+    /* background-image: url(./images/bg-blur1.png); */
+}
+.button-content{
+    display: flex;
+    gap: 10px;
+}
+.right-content {
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    align-items: baseline;
+}
+.logo{
+    font-family: JejuHallasan;
+    color: black;
+    font-size: 26px;
+}
+a{
+    text-decoration: none;
+    color: rgb(153, 151, 145);
+    font-family: "Raleway", sans-serif;
+}
+.btn button{
+    width: 104px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(247 107 105 / 29%);
+    border: none;
+}

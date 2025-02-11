@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(249, 244,234);
+}
+.about-main{
+    color: white;
+    /* display: flex; */
+    justify-content: start;
+    text-align: start;
+    margin: 0 auto;
+    width: 83%;
+    padding: 95px 0;
+    background-color: rgb(249, 244,234);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.left{
+    /* width: 50%; */
+    color: black;
+    text-align: end;
+    padding: 100px 0px;
+}
+.about-title{
+    width: 50%;
+    line-height: 1.5;
+    color: black;
+}
+.about-title h2{
+    color: #808080;
+    font-size: 42px;
+    font-weight: 800;
+    padding: 0;
+}
+.self-para {
+    text-align: justify;
+    padding: 30px 5px;
+    font-family: Preahvihear;
+    letter-spacing: 1px;
+}
+.self-para p{
+    line-height: 1.5;
+    color: black;
+}
+.about-title h3{
+   font-size: xx-large;
+   color: rgb(247, 107, 105);
+}

@@ -1,0 +1,17 @@
+.work-main{
+    color: antiquewhite;
+    background-color: rgb(241, 234, 220);
+    padding: 95px 111px;
+    justify-content: end;
+    text-align: center;
+}
+.work-intro h3{
+    color: rgb(247, 107, 105);
+    font-size: xx-large;
+}
+.work-intro h2{
+    color: #808080;
+    font-size: 42px;
+    font-weight: 800;
+    padding: 0;
+}
